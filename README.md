@@ -1,5 +1,5 @@
-TogetherJS - Surprisingly easy collaboration
-============================================
+CafeSync - Astonishingly simple remote access networking
+=======================================================
 
 What is TogetherJS?
 -----------------
